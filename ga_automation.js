@@ -41,7 +41,7 @@ async function run() {
                 type: 'WEB_DATA_STREAM',
                 displayName: 'Web Stream',
                 webStreamData: {
-                    defaultUri: 'https://control.imagrove.com',
+                    defaultUri: 'https://media-control.imagrove.com',
                 },
             },
         });

@@ -13,6 +13,7 @@
 - `docs/articles/`：预留的技术解决方案文章。
 
 ## 3. 部署与监控
+- **访问地址**：**[https://media-control.imagrove.com](https://media-control.imagrove.com)**
 - **托管平台**：Vercel
 - **数据监控**：Google Analytics 4 (已通过 30_Marketing_Lab 自动化脚本完成埋点)
 
