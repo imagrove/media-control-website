@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "public": true,
+  "name": "multimedia-control-system-simple",
+  "cleanUrls": true,
+  "framework": null,
+  "outputDirectory": "web"
+}
